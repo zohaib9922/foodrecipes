@@ -1,0 +1,10 @@
+@media screen and (max-width: 480px){
+.envato-kit-75-steps .elementor-price-list-image{
+display: none;
+}
+	.envato-kit-75-steps	.elementor-price-list-text{
+		max-width: 100%;
+		width: 100%;
+	display: block;
+	}
+}
